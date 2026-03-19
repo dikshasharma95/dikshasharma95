@@ -22,14 +22,12 @@
 
 ---
 
-## 📊 My GitHub Metrics
+## 🔭 What I’m Currently Working On
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshasharma95&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshasharma95&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="150" />
-</p>
+**CodeInsight AI** – An AI-powered code analysis and bug prediction system that evaluates software quality using ML-based risk scoring and advanced code metrics.
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshasharma95&theme=radical&hide_border=false" alt="GitHub Streak" height="150" />
-</p>
+**Vehicle Parking Management System** – A scalable web-based system for real-time parking slot management with async task handling using Celery and Redis.
+
+**Quiz Master Web App** – A full-stack quiz platform with timer-based assessments, automated scoring, and interactive UI built using Flask and Jinja2.
+
+**Bank Marketing Prediction Model** – A machine learning model that predicts customer responses to telemarketing campaigns using classification techniques and data analysis.
