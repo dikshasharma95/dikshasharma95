@@ -25,11 +25,11 @@
 ## 📊 My GitHub Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=23f2004899&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dikshasharma95&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="150" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f2004899&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshasharma95&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="150" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23f2004899&theme=radical&hide_border=false" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshasharma95&theme=radical&hide_border=false" alt="GitHub Streak" height="150" />
 </p>
