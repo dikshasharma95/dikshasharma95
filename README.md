@@ -19,3 +19,17 @@
 ## 📫 Connect with me:
 [**LinkedIn Profile**](https://www.linkedin.com/in/diksha-sharma-043079239/)
 [**Email Me**](mailto:diksha.sharma80575@gmail.com)
+
+---
+
+## 📊 My GitHub Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=23f2004899&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f2004899&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23f2004899&theme=radical&hide_border=false" alt="GitHub Streak" height="150" />
+</p>
