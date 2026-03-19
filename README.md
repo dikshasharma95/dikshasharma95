@@ -17,3 +17,5 @@
 - **Areas of Interest:** Machine Learning, Data Analysis
 
 ## 📫 Connect with me:
+[**LinkedIn Profile**](https://www.linkedin.com/in/diksha-sharma-043079239/)
+[**Email Me**](diksha.sharma80575@gmail.com)
