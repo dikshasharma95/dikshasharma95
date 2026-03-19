@@ -31,3 +31,21 @@
 **Quiz Master Web App** – A full-stack quiz platform with timer-based assessments, automated scoring, and interactive UI built using Flask and Jinja2.
 
 **Bank Marketing Prediction Model** – A machine learning model that predicts customer responses to telemarketing campaigns using classification techniques and data analysis.
+
+## 🌱 Currently Learning
+
+Advanced Machine Learning • FastAPI & Scalable Backend Systems • System Design Basics • SQL Optimization • Docker & Deployment • Async Processing (Celery, Redis) • Vue.js • Data Visualization • API Design & Integration
+
+## 💬 Ask Me About
+
+Python • Machine Learning • FastAPI • REST APIs • SQL • Data Analysis • EDA • Backend Development • Git & Linux • System Design Basics
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages & Frameworks
+
+Python • JavaScript • Flask • FastAPI • Vue.js • HTML • CSS
+
+### 🔹 Databases & Tools
+
+MySQL • SQLite • Redis • Git • Docker • Linux • Celery • Pandas • NumPy • Scikit-learn • Radon
