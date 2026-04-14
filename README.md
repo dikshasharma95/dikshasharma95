@@ -1,51 +1,72 @@
-# Hi there, I'm Diksha Sharma! 👋
+---
 
-### Aspiring Data Scientist | Python & AI Developer 
-**Based in Bengaluru, India 📍**
+## 🚀 What I’m Currently Working On
+
+* **Smart Study Assistant (LLM + RAG)** 🚀 – AI-powered system where users upload notes (PDF/TXT) and get accurate answers using Retrieval-Augmented Generation.
+* **CodeInsight AI** – AI-powered bug prediction & code quality analysis system using ML-based risk scoring.
+* **Vehicle Parking Management System** – Real-time parking slot management system.
+* **Quiz Master Web App** – Full-stack quiz platform with timer-based assessments.
 
 ---
 
-## 🚀 About Me
-- 🏫 **Former Physics and Math Teacher** transitioning into the world of Data Science and AI.
-- 💡 Passionate about building intelligent solutions and simplifying complex data.
-- 🛠️ Recently developed an **AI-Powered Developer Assistant** using Python.
-- 🔍 Actively seeking AI/ML and Data Science **Internship** opportunities in Bangalore.
+## 🔥 Featured Project
 
-## 🛠️ Tech Stack & Skills
-- **Languages:** Python, SQL
-- **Frameworks/Tools:** FastAPI, Git, GitHub, VS Code
-- **Areas of Interest:** Machine Learning, Data Analysis
+### 🧠 Smart Study Assistant (LLM + RAG)
 
-## 📫 Connect with me:
-[**LinkedIn Profile**](https://www.linkedin.com/in/diksha-sharma-043079239/)
-[**Email Me**](mailto:diksha.sharma80575@gmail.com)
+A web app where users can upload study material and ask questions, powered by LLM + Retrieval.
+
+**✨ Features:**
+
+* 📄 Upload PDF / TXT notes
+* 🔍 Smart chunking + embeddings
+* 🧠 Semantic search using vector database (ChromaDB)
+* 💬 Context-aware answers using OpenAI
+* ⚡ FastAPI backend
+
+**🛠 Tech Stack:**
+
+* Python, FastAPI
+* OpenAI API (Embeddings + Chat)
+* ChromaDB (Vector DB)
+* HTML, CSS, JS
 
 ---
-
-## 🔭 What I’m Currently Working On
-
-**CodeInsight AI** – An AI-powered code analysis and bug prediction system that evaluates software quality using ML-based risk scoring and advanced code metrics.
-
-**Vehicle Parking Management System** – A scalable web-based system for real-time parking slot management with async task handling using Celery and Redis.
-
-**Quiz Master Web App** – A full-stack quiz platform with timer-based assessments, automated scoring, and interactive UI built using Flask and Jinja2.
-
-**Bank Marketing Prediction Model** – A machine learning model that predicts customer responses to telemarketing campaigns using classification techniques and data analysis.
 
 ## 🌱 Currently Learning
 
-Advanced Machine Learning • FastAPI & Scalable Backend Systems • System Design Basics • SQL Optimization • Docker & Deployment • Async Processing (Celery, Redis) • Vue.js • Data Visualization • API Design & Integration
+* Advanced Machine Learning
+* FastAPI & Backend Systems
+* System Design Basics
+* LLMs & RAG
+
+---
 
 ## 💬 Ask Me About
 
-Python • Machine Learning • FastAPI • REST APIs • SQL • Data Analysis • EDA • Backend Development • Git & Linux • System Design Basics
+* Python • Machine Learning • FastAPI
+* REST APIs • SQL • Data Analysis
+* Backend Development
 
-## 🛠️ Tech Stack
+---
 
-### 🔹 Languages & Frameworks
+## ⚡ Tech Stack
 
-Python • JavaScript • Flask • FastAPI • Vue.js • HTML • CSS
+### 💻 Languages & Frameworks
 
-### 🔹 Databases & Tools
+* Python • JavaScript • FastAPI • Flask
+* HTML • CSS
 
-MySQL • SQLite • Redis • Git • Docker • Linux • Celery • Pandas • NumPy • Scikit-learn • Radon
+### 🛠️ Tools
+
+* Git & GitHub
+* SQLite
+* VS Code
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: (add your link)
+* 📧 Email: [diksha.sharma80575@gmail.com](mailto:diksha.sharma80575@gmail.com)
+
+---
