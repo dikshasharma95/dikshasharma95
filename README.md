@@ -1,11 +1,7 @@
-
-
 ## 🚀 What I’m Currently Working On
 
-* **Smart Study Assistant (LLM + RAG)** 🚀 – AI-powered system where users upload notes (PDF/TXT) and get accurate answers using Retrieval-Augmented Generation.
-* **CodeInsight AI** – AI-powered bug prediction & code quality analysis system using ML-based risk scoring.
-* **Vehicle Parking Management System** – Real-time parking slot management system.
-* **Quiz Master Web App** – Full-stack quiz platform with timer-based assessments.
+* **🧠 Smart Study Assistant (LLM + RAG)** – Building an intelligent question-answering system using Retrieval-Augmented Generation, where users upload documents and receive context-aware answers powered by LLMs.
+* **🤖 CodeInsight AI** – Developing an ML-based system to predict bug risk and analyze software quality using code metrics.
 
 ---
 
@@ -13,54 +9,62 @@
 
 ### 🧠 Smart Study Assistant (LLM + RAG)
 
-A web app where users can upload study material and ask questions, powered by LLM + Retrieval.
+An AI-powered application that enables users to upload study material and interact with it using natural language queries.
 
-**✨ Features:**
+**💡 Key AI Concepts Used:**
 
-* 📄 Upload PDF / TXT notes
-* 🔍 Smart chunking + embeddings
-* 🧠 Semantic search using vector database (ChromaDB)
-* 💬 Context-aware answers using OpenAI
-* ⚡ FastAPI backend
+* Retrieval-Augmented Generation (RAG)
+* Text Embeddings (OpenAI)
+* Semantic Search
+* Vector Databases (ChromaDB)
+* Context-aware LLM responses
+
+**⚙️ System Design:**
+
+* Document upload → Text extraction → Chunking
+* Embedding generation → Vector storage
+* Query → Similarity search → Context injection → LLM response
 
 **🛠 Tech Stack:**
 
 * Python, FastAPI
-* OpenAI API (Embeddings + Chat)
-* ChromaDB (Vector DB)
-* HTML, CSS, JS
+* OpenAI API (Embeddings + Chat Models)
+* ChromaDB (Vector Store)
 
 ---
 
 ## 🌱 Currently Learning
 
-* Advanced Machine Learning
-* FastAPI & Backend Systems
-* System Design Basics
-* LLMs & RAG
+* Large Language Models (LLMs)
+* Advanced RAG architectures
+* Prompt Engineering
+* Vector Databases & Retrieval Optimization
+* System Design for AI Applications
 
 ---
 
 ## 💬 Ask Me About
 
-* Python • Machine Learning • FastAPI
-* REST APIs • SQL • Data Analysis
-* Backend Development
+* LLMs & RAG Systems
+* Machine Learning
+* Embeddings & Semantic Search
+* FastAPI Backend Development
+* Data Analysis & SQL
 
 ---
 
 ## ⚡ Tech Stack
 
-### 💻 Languages & Frameworks
+### 💻 Core Skills
 
-* Python • JavaScript • FastAPI • Flask
-* HTML • CSS
+* Python • Machine Learning • FastAPI
+* SQL • Data Analysis
 
-### 🛠️ Tools
+### 🧠 AI Stack
 
-* Git & GitHub
-* SQLite
-* VS Code
+* OpenAI API
+* ChromaDB
+* Embeddings & Vector Search
 
 ---
 
@@ -68,5 +72,3 @@ A web app where users can upload study material and ask questions, powered by LL
 
 * 💼 LinkedIn: (add your link)
 * 📧 Email: [diksha.sharma80575@gmail.com](mailto:diksha.sharma80575@gmail.com)
-
----
