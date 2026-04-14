@@ -70,5 +70,5 @@ An AI-powered application that enables users to upload study material and intera
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (add your link)
+* 💼 LinkedIn: https://www.linkedin.com/in/diksha-sharma-043079239/
 * 📧 Email: [diksha.sharma80575@gmail.com](mailto:diksha.sharma80575@gmail.com)
